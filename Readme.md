@@ -4,5 +4,5 @@
 
 
 <p align="center">	<!-- (optional) center align -->
-    <img src="/path/to/svg" width="XXXpx">
+    <img src="/Photos/download" width="100px">
 </p>
