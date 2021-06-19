@@ -4,5 +4,5 @@
 
 
 <p align="center">	<!-- (optional) center align -->
-    <img src="Root/Photos/download" width="100px">
+    <img src="XShyam/XShyam.github.io/Photos/download" width="100px">
 </p>
