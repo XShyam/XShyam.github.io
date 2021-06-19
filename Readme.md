@@ -1,6 +1,4 @@
-## My Blog
-
-![Webpage stats](Photos/download "Stat scores")
+## My Blog Stats
 
 
 <p align="center">	<!-- (optional) center align -->
